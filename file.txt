@@ -3,3 +3,5 @@ Hello, World!
 Goodbye, World :(
 
 Making changes inside of second branch.
+
+Making additional changes in the second branch.
