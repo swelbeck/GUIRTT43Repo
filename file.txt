@@ -1,6 +1,6 @@
 Hello, World!
 
-Goodbye, World :(
+Goodbye, World...
 
 Making changes inside of second branch.
 
